@@ -56,6 +56,6 @@ For creating a post in telegra.ph send any text (for adding the title speperate 
 **Language:** Python 🐍 <br>
 
 **Available**[<p align="center">
-<img src="https://telegra.ph/file/efdbb8c16474228e2c8de.jpg" width="50">](https://telegram.dog/Ns_AnoNymouS)
+<img src="https://telegra.ph/file/efdbb8c16474228e2c8de.jpg" width="50">](https://telegram.dog/YOUTUBERYT54355)
 
 
