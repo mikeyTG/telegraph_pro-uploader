@@ -10,12 +10,12 @@
 - This bot can upload photos to telegra.ph and give you the link.🏞
 
 ### Our Channels 🧾
-[<p align="left"><img src="https://telegra.ph/file/7156f0a83260d2873e8ba.jpg" width="100">](https://telegram.dog/Ns_bot_updates)
+[<p align="left"><img src="https://telegra.ph/file/8f850e024d5302246fb56.jpg" width="100">](https://telegram.dog/mrgbotupdate)
 
 
 ### Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/Telegraph-Uploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mikeytg/telegraph_pro-uploader)
 
 - Get your API HASH & API TOKEN from [my.telegram.org](https://my.telegram.org/auth?to=apps) or [UseTGSBot](https://telegram.dog/UseTGSBot)
 
