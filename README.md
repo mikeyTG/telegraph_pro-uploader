@@ -47,11 +47,11 @@ For creating a post in telegra.ph send any text (for adding the title speperate 
 ## Developer 👨🏻‍💻
 
 [<p align="center">
-<img src="https://telegra.ph/file/661f584f5aecc25011d9b.jpg" width="300">](https://telegram.dog/Ns_AnoNymouS)
+<img src="https://telegra.ph/file/a49001f8ed1caaa8ce2fd.jpg" width="300">](https://telegram.dog/youtuberyt54355)
 
-**NAME:** 𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 <br>
+**NAME:**MIKEY <br>
 
-**Github:** [Ns-AnoNymouS](https://github.com/Ns-AnoNymouS) <br>
+**Github:** [mikeyTG](https://github.com/mikeyTG) <br>
 
 **Language:** Python 🐍 <br>
 
